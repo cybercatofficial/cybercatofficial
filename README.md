@@ -25,7 +25,7 @@
     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/badge/-Subscribe-pink?style=for-the-badge&logo=youtube&logoColor=black"/></a>
   <a href="https://suryaarigela.medium.com/">
     <img alt="followers" title="Follow me on Medium" src="https://img.shields.io/badge/-Follow-pink?style=for-the-badge&logo=medium&logoColor=black"/></a>
-  <a href="mailto:suryaarigela@icloud.com">
+  <a href="mailto:0xcyb3rc4t@proton.me">
     <img alt="followers" title="Contact Me" src="https://img.shields.io/badge/-Contact-pink?style=for-the-badge&logo=gmail&logoColor=black"/></a>
 </p>
 
@@ -40,7 +40,7 @@
 
 - 💬 Ask me about **Web,Mobile,API,Cloud,Network Pentesting**
 
-- 📫 How to reach me **suryaarigela@icloud.com**
+- 📫 How to reach me **0xcyb3rc4t@proton.me**
 
 
 <details> 
