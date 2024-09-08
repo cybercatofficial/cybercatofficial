@@ -23,7 +23,7 @@
 <p align="center">
   <a href="https://www.youtube.com/c/hackingspottelugu?sub_confirmation=1">
     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/badge/-Subscribe-pink?style=for-the-badge&logo=youtube&logoColor=black"/></a>
-  <a href="https://suryaarigela.medium.com/">
+  <a href="https://cyb3rc4t.medium.com/">
     <img alt="followers" title="Follow me on Medium" src="https://img.shields.io/badge/-Follow-pink?style=for-the-badge&logo=medium&logoColor=black"/></a>
   <a href="mailto:0xcyb3rc4t@proton.me">
     <img alt="followers" title="Contact Me" src="https://img.shields.io/badge/-Contact-pink?style=for-the-badge&logo=gmail&logoColor=black"/></a>
@@ -45,9 +45,9 @@
 
 <details> 
   <summary><h2>📕 Latest Infosec Blogs</h2></summary>
-<a href="https://suryaarigela.medium.com/hyderabad-metro-ticket-for-1-rupee-e7642e1eb845"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2AtumDqFuB142YqMDvbDC-6NICInEbvVXFw&s" height="180px" width="300px" alt="Test" title="Price Manipulation Bug"></a>
+<a href="https://cyb3rc4t.medium.com/hyderabad-metro-ticket-for-1-rupee-e7642e1eb845"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2AtumDqFuB142YqMDvbDC-6NICInEbvVXFw&s" height="180px" width="300px" alt="Test" title="Price Manipulation Bug"></a>
   <p>📕 Follow My Blog for Exciting Techniques & Bypasses</p>
-  <a href="https://suryaarigela.medium.com/"><img src="https://custom-icon-badges.demolab.com/badge/-Follow-black?style=for-the-badge&logo=medium&logoColor=white"/></a>
+  <a href="https://cyb3rc4t.medium.com/"><img src="https://custom-icon-badges.demolab.com/badge/-Follow-black?style=for-the-badge&logo=medium&logoColor=white"/></a>
   
 </details>
   
