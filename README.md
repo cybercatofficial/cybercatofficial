@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/113350806/236842414-18101a37-92f5-4de7-a46d-eeaca6e16cbd.gif)](https://google.com)
 
-<h1 align="center">Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="4%"></a>, I'm Cyb3rc4t</h1>
+<h1 align="center">Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="4%"></a>, I'm Cyb3rC4t</h1>
 
 <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=27&pause=1000&color=f75c7e&center=true&width=435&lines=Cybersecurity+Analyst;Bugbounty+Hunter;2%2B+Years+of+Experience;Always+learning+new+things" />
