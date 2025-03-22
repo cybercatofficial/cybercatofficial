@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/113350806/236842414-18101a37-92f5-4de7-a46d-eeaca6e16cbd.gif)](https://google.com)
 
-<h1 align="center">Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="4%"></a>, I'm Cyb3rC4t</h1>
+<h1 align="center">Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="4%"></a>, I'm Surya Arigela</h1>
 
 <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=27&pause=1000&color=f75c7e&center=true&width=435&lines=Cybersecurity+Analyst;Bugbounty+Hunter;2%2B+Years+of+Experience;Always+learning+new+things" />
@@ -10,7 +10,7 @@
 <p align="center">
   <a href="https://www.youtube.com/c/hackingspottelugu"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/suryaarigelaofficial/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  <a href="https://www.linkedin.com/in/suryaarigela"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/0xcybrc4t"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -25,8 +25,8 @@
     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/badge/-Subscribe-pink?style=for-the-badge&logo=youtube&logoColor=black"/></a>
   <a href="https://cyb3rc4t.medium.com/">
     <img alt="followers" title="Follow me on Medium" src="https://img.shields.io/badge/-Follow-pink?style=for-the-badge&logo=medium&logoColor=black"/></a>
-  <a href="mailto:0xcyb3rc4t@proton.me">
-    <img alt="followers" title="Contact Me" src="https://img.shields.io/badge/-Contact-pink?style=for-the-badge&logo=gmail&logoColor=black"/></a>
+  <a href="https://drive.google.com/file/d/17gwi8RF5hxc_8TOs0U-0ILsqIvTUCQtB/view">
+    <img alt="followers" title="Resume" src="https://img.shields.io/badge/-Resume-pink?style=for-the-badge&logo=book&logoColor=black"/></a>
 </p>
 
 <br/>
@@ -34,18 +34,18 @@
 <img align="right" alt="hack" width="300" src="https://cdn.dribbble.com/users/7813810/screenshots/17447483/media/2f93ce55516c9b590bec1c8950a67a62.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cybercatofficial&label=Profile%20views&color=0e75b6&style=flat" alt="cybercatofficial" /> </p>
 
-- 🌱 I’m currently learning **Web3 Security**
+- 🌱 I’m currently learning **Cloud Security**
 
 - 👨‍💻 Freelancer 
 
-- 💬 Ask me about **Web,Mobile,API,Cloud,Network Pentesting**
+- 💬 Ask me about **Web,Mobile,API,Network Pentesting**
 
 - 📫 How to reach me **0xcyb3rc4t@proton.me**
 
 
 <details> 
   <summary><h2>📕 Latest Infosec Blogs</h2></summary>
-<a href="https://cyb3rc4t.medium.com/hyderabad-metro-ticket-for-1-rupee-e7642e1eb845"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2AtumDqFuB142YqMDvbDC-6NICInEbvVXFw&s" height="180px" width="300px" alt="Test" title="Price Manipulation Bug"></a>
+<a href="https://cyb3rc4t.medium.com"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2AtumDqFuB142YqMDvbDC-6NICInEbvVXFw&s" height="180px" width="300px" alt="Test" title="Price Manipulation Bug"></a>
   <p>📕 Follow My Blog for Exciting Techniques & Bypasses</p>
   <a href="https://cyb3rc4t.medium.com/"><img src="https://custom-icon-badges.demolab.com/badge/-Follow-black?style=for-the-badge&logo=medium&logoColor=white"/></a>
   
@@ -141,5 +141,5 @@
 
 <details> 
   <summary><h2>✨ Awards and Achievements</h2></summary>
-  <p>Reported & Secured 20+ Websites,Applications via Bugcrowd,Hackerone,Intigriti and NCIIPC
+  <p>Reported & Secured 60+ Websites,Applications via Bugcrowd,Hackerone,Intigriti and NCIIPC
 </p>
